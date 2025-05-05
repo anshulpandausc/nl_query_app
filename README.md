@@ -66,6 +66,7 @@ After adding the API key, you will need to make sure the following packages are 
   - pandas
   - requests
   - bson
+  - pymysql
 
 The exact versions of each package can be found in the "requirements.txt" file. For automatic installation, you can run the following command:
 ```
